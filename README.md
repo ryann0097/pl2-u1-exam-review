@@ -1,18 +1,10 @@
-## Getting Started
+## Academic Review Pratice for Programming Language II Exam
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Well, my PLII exam is tomorrow and I thought that make this project to the exam was a good idea to pratice under pressure. I setted my timer to 80min(1h20) and started my pratice. Fortunately I finished it like about... 6 minutes earlier.
 
-## Folder Structure
+This code is very simple, it's not meant to be a full and complete project.
+The project consists in a system that contains clients, employees, products, items and that all are inserted in a view class "Mercado". "Mercado" implements it all.
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Hope that it can help someone to learn this beautiful language too.
+(Remember that C/C++ it's the most beautiful programming language ever created!)
+See ya!
